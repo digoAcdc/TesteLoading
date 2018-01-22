@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context="br.com.barbosa.rodrigo.testeloading.MainActivity">
+
+
+    <TextView
+        android:layout_margin="12dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="O texto informativo tem como função informar e ensinar. Visa transmitir conhecimentos e esclarecer dúvidas sobre um tema específico. São utilizados textos informativos em jornais, revistas, livros didáticos, enciclopédias, sites e artigos científicos, entre outros.
+
+Características do texto informativo
+O texto informativo:
+
+É escrito em prosa, sendo utilizada a 3.ª pessoa do discurso.
+Fornece informações verdadeiras e objetivas sobre um determinado tema.
+Utiliza o sentido denotativo da linguagem, para informar o receptor da mensagem de forma clara e direta.
+Não utiliza figuras de linguagem nem o sentido conotativo das palavras, de modo a evitar ambiguidade e diversidade de interpretações.
+Não expressa opiniões pessoais nem reflete possíveis indagações do autor.
+Assume um caráter prático e utilitário.
+Apresenta citações, fontes, dados e pesquisas, de forma a provar a sua credibilidade.
+Compreensão de textos informativos
+Existem diversas estratégias de leitura de textos informativos, de modo a bem reter e compreender a maior quantidade de informação possível.
+
+Diversos autores defendem a necessidade de várias leituras, afirmando que apenas uma leitura nunca é suficiente. Nas diversas leituras, é importante:
+
+identificar a ideia principal do texto;
+identificar as ideias secundárias do texto;
+identificar detalhes e curiosidades;
+interpretar informação proveniente de diagramas, ilustrações, tabelas,...;
+tomar notas, sublinhar conteúdos, realizar esquemas,...
+Em alguns casos, é também essencial que antes da leitura se faça uma reflexão ou uma discussão sobre o tema, para averiguar os conhecimentos prévios existentes.
+
+Estrutura do texto informativo
+Embora alguns textos informativos apresentem uma estrutura de introdução, desenvolvimento e conclusão, nesse tipo de texto o conteúdo sobrepõe-se à forma.
+
+Sendo a transmissão de conhecimentos sobre um tema o mais importante, o texto informativo pode apresentar diversas estruturas, de modo a melhor abordar o tema. Diversos textos informativos recorrem a imagens, ilustrações, esquemas, diagramas, tabelas e gráficos para complementar a informação e estruturar o conteúdo." />
+
+   <include layout="@layout/fragment_loading"/>
+
+</FrameLayout>
